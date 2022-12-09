@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(to left, white 0%, white 70%, blue 30%, blue 100%);
+}
+
+.white {
+    color: aliceblue;
+    line-height: 120px;
+}
+
+.logo {
+    display: inline; 
+}
+
+h3 {
+    color: aliceblue;
+    line-height: 40px;
+}
+
+input {
+    display: inline;
+    font-weight: normal;
+    font-size: 29px;
+    text-align: center;
+    margin-bottom: 34px ;
+}
+
+#form_login {
+    left: 60%;
+    top: 30%;
+    margin-left: -20%;
+    position: absolute;
+    margin-top: 0%;
+    size: 50px;
+    
+}
+
+footer {
+    line-height: 700px;
+    color: white;
+}
+
+button {
+    font-weight: normal;
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 37px ;
+}
+
+
